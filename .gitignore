@@ -1,0 +1,8 @@
+.obsidian
+
+# Ignore Obsidian deleted items folder
+.trash/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
