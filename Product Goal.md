@@ -14,4 +14,4 @@ What we're explicitly NOT doing while pursuing this:
 We're not telling people how to commit or fulfill commitments.
 
 Expected timeframe (not a commitment):
-4 months.
+3 months.
