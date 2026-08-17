@@ -1,17 +1,21 @@
 PRODUCT GOAL
 ────────────
-Every father (employed or unemployed) can use his mobile or computer to track and manage his personal day-to-day commitments clearly and easily in a collaborative way with other people (wife, kids, friends, etc.,)
+A father and one other person can agree, track and complete a shared commitment end-to-end — so that within a week of signing up, a new user has fulfilled at least one commitment that someone else agreed to.
 
 
 We'll know we've achieved it when:
-  • 80% of users are actively fulfilling commitments on weekly basis.
-  • At least 50% of subscriptions are family packages.
+- Primary: ≥40% of new signups complete a shared commitment with another person within 7 days
+- Guardrail: ≥50% of those users create a second shared commitment within 30 days
+  (protects against a hollow first commitment created just to get through onboarding)
 
 Why this, now:
-Fathers with too many commitments in life needs a clear, collabortive and easy way to handle them without feeling commitments are getting out of hand or get forgotten.
+Our vision is a world where promises are never forgotten and no one has to chase. Reaching this goal helps fathers with multiple commitments build a shared understanding of those commitments and fulfil them without chasing or being chased.
 
 What we're explicitly NOT doing while pursuing this:
-We're not telling people how to commit or fulfill commitments.
+- team/workplace workflows
+- calendar sync
+- recurring commitments
+- enterprise accounts
 
 Expected timeframe (not a commitment):
 3 months.
