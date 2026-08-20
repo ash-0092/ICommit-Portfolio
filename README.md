@@ -36,7 +36,17 @@ This repository holds the strategy artifacts for ICommit, built as practice for 
 | [Biggest untested assumptions](biggest-untested-assumptions.md) | What could be wrong, ranked, with the test for each |
 | [Module 2 review](Module-2-Review.md) | Self-assessment of these artifacts against the checklists |
 
-> **Status:** the strategy is drafted but **not yet validated**. The assumptions listed above are the discovery backlog — customer interviews come next.
+### Measurement — [EBM/](EBM)
+
+Evidence-Based Management artifacts: how we'll know whether any of the above is working.
+
+| Artifact | What it shows |
+|---|---|
+| [North Star Metric](EBM/North%20Star%20Metric%20%28NSM%29.md) | **Promise Keepers** — the single measure of customer value, with its input metrics and counter-metrics |
+| [OKRs](EBM/OKRs.md) | Objective and Key Results for the current cycle *(draft — under revision)* |
+| EBM Scorecard | Measures across all four Key Value Areas *(not started)* |
+
+> **Status:** the strategy is drafted but **not yet validated**, and the measurement system currently covers **Current Value only**. The assumptions listed above are the discovery backlog — customer interviews come next, and they will also supply the first Unrealised Value and Time to Market measures.
 
 ---
 

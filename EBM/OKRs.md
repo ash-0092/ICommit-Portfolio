@@ -1,12 +1,16 @@
-## [Product Goal]([[Product Goal]])
+## [Product Goal](../Product%20Goal.md)
 
 ----
 ## Objective
-==**Relation to Scrum:** Sets near the product goal==
+
+> **Relation to Scrum:** sits near the Product Goal.
+
 Make a family's first shared promise effortless — and worth making again.
 
 ## Key Results
-==**Relation to Scrum:** Sprint Goals become steps toward the key results==
+
+> **Relation to Scrum:** Sprint Goals become steps toward the Key Results.
+
 1. >= 40% of new signups complete a shared commitment within the first week.
 2. >= 70% of users uses the free 3 commitments within first 2 weeks of signup.
 3. >= 30% of signed-up users choose to upgrade their subscription within 1 month.

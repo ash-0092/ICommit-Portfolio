@@ -1,4 +1,4 @@
-[[https://amplitude.com/books/north-star/getting-started-running-a-north-star-workshop]]
+https://amplitude.com/books/north-star/getting-started-running-a-north-star-workshop
 
 ---
 ### An NSM is a Current Value metric by definition
