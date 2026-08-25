@@ -5,7 +5,7 @@ A father and one other person can agree, track and complete a shared commitment 
 
 We'll know we've achieved it when:
 - Primary: ≥40% of new signups complete a shared commitment with another person within 7 days
-- Guardrail: ≥50% of those users create a second shared commitment within 30 days
+- Guardrail: ≥50% of those users complete a second shared commitment within 30 days
   (protects against a hollow first commitment created just to get through onboarding)
 
 Why this, now:

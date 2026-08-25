@@ -1,18 +1,30 @@
 ## [Product Goal](../Product%20Goal.md)
 
 ----
+
+**Note:** `All targets are pre-launch hypotheses — recalibrate once baselines exist.`
+# Cycle 1 — months 1–3 after release
 ## Objective
-
-> **Relation to Scrum:** sits near the Product Goal.
-
-Make a family's first shared promise effortless — and worth making again.
+`Relation to Scrum: sits near the Product Goal.`
+> Make a family's first shared promise effortless — and worth making again.
 
 ## Key Results
+`Relation to Scrum: Sprint Goals become steps toward the Key Results.`
 
-> **Relation to Scrum:** Sprint Goals become steps toward the Key Results.
+1. >= 40% of new signups complete a shared commitment with another person within 7 days
+	1. effortless: the first promise actually happens.
+2. >=50% of those users complete a second shared commitment within 30 days
+	1. Promises are worth making again
+3. >=70% of shared commitments are fulfilled on or before their due date
+	1. the promise is kept, not just made
 
-1. >= 40% of new signups complete a shared commitment within the first week.
-2. >= 70% of users uses the free 3 commitments within first 2 weeks of signup.
-3. >= 30% of signed-up users choose to upgrade their subscription within 1 month.
-4. >= 40% of upgraded subscriptions users have >= 3 extra active commitments within 1 month of upgrade.
-5. >= 20% of upgraded subscriptions users completed 3~5 commitments within 2 months of upgrade.
+
+# Cycle 2 — months 4–6 after release
+
+## Objective
+> Make the paid tier an obvious "go for it" for families already getting value
+
+## Key Results
+1. >=8% of signups convert to paid within 30 days of signup
+2. >=50% of paying families are on a group plan rather than individual
+3. >=80% of month-1 payers are still paying in month 3
